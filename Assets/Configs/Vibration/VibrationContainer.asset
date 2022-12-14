@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cf44b33b3e345a8870a4080b976b4b2, type: 3}
+  m_Name: VibrationContainer
+  m_EditorClassIdentifier: 
+  vibrations:
+  - place: 1
+    type: 1
+  - place: 2
+    type: 4
+  - place: 3
+    type: 6
+  - place: 4
+    type: 6
+  vibrationItems:
+  - type: 1
+    config: {fileID: 11400000, guid: 29366d5f8a4eb4a32a2a7ee92f035033, type: 2}
+  - type: 2
+    config: {fileID: 11400000, guid: 3a97c8037f3734fa7a95f32359fa1ec7, type: 2}
+  - type: 3
+    config: {fileID: 11400000, guid: 4eb07b98906ed4838938a7d64fa0309b, type: 2}
+  - type: 4
+    config: {fileID: 11400000, guid: c0cdd86da7ff54b57bb8c67cea74bfa2, type: 2}
+  - type: 5
+    config: {fileID: 11400000, guid: 07d91d37b7b72459788efcf6497fabde, type: 2}
+  - type: 6
+    config: {fileID: 11400000, guid: e41b684a5480940ea88b39b132b3416e, type: 2}
+  - type: 7
+    config: {fileID: 11400000, guid: 5664597dae3b54e5eb6f81e2a44db7be, type: 2}

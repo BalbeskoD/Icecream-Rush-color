@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1159e6db6a074b2182a95390c62c0e26, type: 3}
+  m_Name: LevelConfig 1
+  m_EditorClassIdentifier: 
+  colorsConfigs:
+  - {fileID: 11400000, guid: debc41e246f0c7d418c478aa2f61b102, type: 2}
+  - {fileID: 11400000, guid: 02fa01a478bef9042b73a02e3daa22fa, type: 2}
+  - {fileID: 11400000, guid: 194004582679b5a42bdbb124ec3114b9, type: 2}
+  - {fileID: 11400000, guid: 7835c45db6397b44988ea858d71c5493, type: 2}
+  - {fileID: 11400000, guid: 72c19623b837e0a4aaff61ff63c2f607, type: 2}
+  levelLimits:
+    leftLimit: -1.5
+    rightLimit: 1.5

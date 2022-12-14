@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cb0365c9dd9426d9f6ffd762d20ee7, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  speedForward: 4
+  speedForwardOnLine: 5
+  delayForOtherLine: 0.4
+  speedSide: 250
+  deathCubeSpeed: 3
+  rollOffset: {x: 0, y: -0.63, z: 0.65}
+  rollStartScale: {x: 1, y: 0.2, z: 0.2}
+  finishUpOffset: {x: 0, y: 1, z: 0}
+  finishUpOffset2: {x: 0, y: 1, z: 0}
+  baseRotation: {x: -75, y: 0, z: 0}
+  completedRollRotation: {x: -85, y: 0, z: 0}
+  completedRollPosition: {x: 0, y: -0.5, z: 1}
+  wrongRollRotation: {x: -65, y: 0, z: 0}
+  basePosition: {x: 0, y: -0.6, z: 1}
+  throwRollPosition: {x: 0, y: 0, z: 1}
